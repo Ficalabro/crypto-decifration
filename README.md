@@ -1,8 +1,8 @@
-# 🔒 Crypto Decifration
+# Crypto Decifration
 
 Aplicação web para exploração e demonstração de algoritmos clássicos de criptografia, desenvolvida com React.
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto é uma ferramenta educacional interativa que permite visualizar e entender o funcionamento de algoritmos clássicos de criptografia através de uma interface moderna e intuitiva.
 
@@ -25,9 +25,8 @@ Este projeto é uma ferramenta educacional interativa que permite visualizar e e
    - Visualização dos deslocamentos e cálculos
    - Processo de cifragem letra por letra explicado
    - Conhecida como "cifra indecifrável" por 300 anos
-   - 📖 **[Documentação Completa do Vigenère](VIGENERE.md)**
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Frontend
 
@@ -39,9 +38,7 @@ npm run dev
 
 O projeto estará disponível em `http://localhost:3000`
 
-⚡ **[Ver Guia de Início Rápido](INICIO_RAPIDO.md)**
-
-## 🏗️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 crypto-decifration/
@@ -56,14 +53,14 @@ crypto-decifration/
 └── README.md
 ```
 
-## 🎨 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React** 18.2.0 - Biblioteca para construção da interface
 - **Vite** 5.0.8 - Build tool e dev server
 - **React Router** 6.20.0 - Gerenciamento de rotas
 - **CSS3** - Estilização com variáveis CSS e gradientes
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - ✅ Interface moderna e responsiva
 - ✅ Seção informativa em cada algoritmo (história e funcionamento)
@@ -73,7 +70,7 @@ crypto-decifration/
 - ✅ Animações e transições suaves
 - ✅ Feedback visual detalhado
 
-## 📚 Aprendizado
+## Aprendizado
 
 Cada algoritmo inclui:
 - **Explicação visual do processo** com coordenadas e índices
@@ -83,7 +80,7 @@ Cada algoritmo inclui:
 - **Entrada e saída de dados** com informações em tempo real
 - **Parâmetros configuráveis** (trilhos, chaves)
 
-### 🎓 Recursos Didáticos
+### Recursos Didáticos
 
 - ✅ **Visualização completa** das estruturas (grades, matrizes)
 - ✅ **Coordenadas e índices** para facilitar o entendimento
@@ -91,21 +88,6 @@ Cada algoritmo inclui:
 - ✅ **Transformações detalhadas** letra por letra
 - ✅ **Diferenças entre criptografar e descriptografar** claramente explicadas
 - ✅ **Botão de exemplo** para começar rapidamente
-
-📖 **[Ver Melhorias Didáticas Completas](MELHORIAS_DIDATICAS.md)**
-
-## 📚 Documentação Adicional
-
-- 📊 **[Resumo do Projeto](RESUMO_PROJETO.md)** - Visão geral executiva
-- 📖 **[Instruções Detalhadas de Uso](frontend/INSTRUCOES.md)** - Como usar cada algoritmo
-- 🏗️ **[Estrutura do Projeto](ESTRUTURA.md)** - Arquitetura e organização
-- 🎓 **[Melhorias Didáticas](MELHORIAS_DIDATICAS.md)** - Detalhes das melhorias educacionais
-- 📚 **[Contexto Histórico](CONTEXTO_HISTORICO.md)** - História e evolução das cifras
-- 🔤 **[Documentação Vigenère](VIGENERE.md)** - História e funcionamento completo
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
 ## 📝 Licença
 
